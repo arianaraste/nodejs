@@ -1,0 +1,25 @@
+{
+    "product_list" : [
+        {
+            "id" :  1 ,
+            "product_name" : "iphone 13 pro max" ,
+            "storge" : 256 ,
+            "color" : "blue"
+        },{
+            "id" :  2 ,
+            "product_name" : "iphone 12 mini" ,
+            "storge" : 128 ,
+            "color" : "red"
+        },{
+            "id" :  3 ,
+            "product_name" : "iphone 13 pro " ,
+            "storge" : 256 ,
+            "color" : "gold"
+        },{
+            "id" :  4 ,
+            "product_name" : "iphone 12 pro max" ,
+            "storge" : 256 ,
+            "color" : ""
+        }
+    ]
+}
